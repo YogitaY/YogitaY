@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate Quality Assurance (QA) automation
 
 ## 🌟 Projects
 
-### Project 1: [Project Name](Link to Project)
+### Project 1: Luma Demo Store Automation(https://github.com/YogitaY/MyLumaProject)
 Description of the project and its significance.
 
 ### Project 2: Clear Trip-Train(https://github.com/Yyogita007/Clear-Trip-Module-Train-ManualTesting)
