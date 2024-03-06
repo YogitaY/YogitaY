@@ -37,7 +37,19 @@ Automated end-to-end testing for the Luma Cloth shopping website using Java, Sel
 - **Selenium:** Framework for browser automation.
 - **TestNG:** Testing framework for efficient test execution and reporting.
 
-### [Project 2: Cleartrip Train Booking Manual Project🚂🗓️](https://github.com/Yyogita007/Clear-Trip-Module-Train-ManualTesting)   
+### [Project 2: Cleartrip Domestic Flight Offer Automation Project ✈️🔍](https://github.com/YogitaY/ClearTripDomesticFlight)
+Automated testing project for Cleartrip's Offer Domestic Flight module, designed to streamline the application of offers and booking process using Python, Selenium, and pytest.This project covers essential user flows:
+- **Automated Offer Selection:** Implemented Selenium scripts to navigate to the Domestic Flight module, locate available offers, and apply them during the booking process.
+- **Dynamic Offer Handling:** Ensured adaptability to changes in the offer section by dynamically identifying and selecting specific offers based on parameters.
+- **Flight Selection:** Automated the process of selecting flights within the context of the applied offer.
+- **Booking Confirmation:** Validated the booking flow, ensuring the successful application of the offer reflects in the final booking confirmation.
+
+## Technologies Used:
+- **Python:** Primary programming language for automation scripts.
+- **Selenium:** Powerful web testing framework for browser automation.
+- **pytest:** Testing framework for efficient test execution and reporting.
+  
+### [Project 3: Cleartrip Train Booking Manual Project🚂🗓️](https://github.com/Yyogita007/Clear-Trip-Module-Train-ManualTesting)   
 Manual testing project for Cleartrip's Train module, designed to facilitate seamless train bookings. Using an Excel template, users can easily input search criteria:
 - **Search Train:** Manual testing ensures users can effectively search for trains by providing details such as destination, travel dates, and booking preferences.
 - **To-From Destination:** Validates the accuracy of train search results for specified origin and destination points.
@@ -46,7 +58,7 @@ Manual testing project for Cleartrip's Train module, designed to facilitate seam
 ## Testing Methodology
 - **Manual Testing:** Thoroughly testing each step of the train booking process to ensure a smooth user experience.
 - **Excel Template:** Utilizing an Excel template for input parameters, streamlining the testing process and enhancing test case documentation.
-
+  
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](www.linkedin.com/in/yogita-hindalekar-233306205)
