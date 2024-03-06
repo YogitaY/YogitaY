@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @YogitaY
-- 👀 I’m interested in Automation Software Testing
 
-<!---
-YogitaY/YogitaY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # 👋 Hello, I'm Yogita - QA Automation Tester 🚀
 
 Welcome to my GitHub profile! I'm a passionate Quality Assurance (QA) automation tester, on a mission to ensure software excellence. As a fresher in the tech world, I'm constantly learning and contributing to the exciting field of software testing.
@@ -33,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate Quality Assurance (QA) automation
 ### Project 1: [Project Name](Link to Project)
 Description of the project and its significance.
 
-### Project 2: Clear Trip-Train(Link to Project)
-Brief overview and key contributions.
+### Project 2: Clear Trip-Train(https://github.com/Yyogita007/Clear-Trip-Module-Train-ManualTesting)
+Cleartrip is a popular online travel platform, and this project focuses on testing the train module to ensure its functionality, usability, and reliability.User can search and booked specific train.
 
 ## 📬 Let's Connect
 
