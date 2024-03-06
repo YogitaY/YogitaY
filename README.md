@@ -25,7 +25,12 @@ Welcome to my GitHub profile! I'm a passionate Quality Assurance (QA) automation
 ## 🌟 Projects
 
 ### Project 1: Luma Demo Store Automation(https://github.com/YogitaY/MyLumaProject)
-Description of the project and its significance.
+Automated end-to-end testing for the Luma Cloth shopping website using Java, Selenium, and TestNG. This project covers essential user flows:
+- **Account Creation:** Streamlined onboarding with automated account creation.
+- **Login:** Ensured secure access to user accounts with automated login functionality.
+- **Product Search:** Enabled quick and accurate product searches for a seamless shopping experience.
+- **Add to Cart:** Automated the process of adding products to the shopping cart with proper validation.
+- **Buy Product:** Simulated successful transactions through automated checkout and purchase processes.
 
 ### Project 2: Clear Trip-Train(https://github.com/Yyogita007/Clear-Trip-Module-Train-ManualTesting)
 Cleartrip is a popular online travel platform, and this project focuses on testing the train module to ensure its functionality, usability, and reliability.User can search and booked specific train.
