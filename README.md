@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YogitaY
-- 👀 I’m interested in Data Science and AI to change the world
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Automation Software Testing
 
 <!---
 YogitaY/YogitaY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
