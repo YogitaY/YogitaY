@@ -24,16 +24,28 @@ Welcome to my GitHub profile! I'm a passionate Quality Assurance (QA) automation
 
 ## 🌟 Projects
 
-### Project 1: Luma Demo Store Automation(https://github.com/YogitaY/MyLumaProject)
+### Project 1: Luma Cloth Shopping Automation Project 🌐🛍️ https://github.com/YogitaY/MyLumaProject
 Automated end-to-end testing for the Luma Cloth shopping website using Java, Selenium, and TestNG. This project covers essential user flows:
 - **Account Creation:** Streamlined onboarding with automated account creation.
 - **Login:** Ensured secure access to user accounts with automated login functionality.
 - **Product Search:** Enabled quick and accurate product searches for a seamless shopping experience.
 - **Add to Cart:** Automated the process of adding products to the shopping cart with proper validation.
 - **Buy Product:** Simulated successful transactions through automated checkout and purchase processes.
+  
+## Technologies Used
+- **Java:** Core programming language for automation scripts.
+- **Selenium:** Framework for browser automation.
+- **TestNG:** Testing framework for efficient test execution and reporting.
 
-### Project 2: Clear Trip-Train(https://github.com/Yyogita007/Clear-Trip-Module-Train-ManualTesting)
-Cleartrip is a popular online travel platform, and this project focuses on testing the train module to ensure its functionality, usability, and reliability.User can search and booked specific train.
+### Project 2: Cleartrip Train Booking Manual Project 🚂🗓️ https://github.com/Yyogita007/Clear-Trip-Module-Train-ManualTesting
+Manual testing project for Cleartrip's Train module, designed to facilitate seamless train bookings. Using an Excel template, users can easily input search criteria:
+- **Search Train:** Manual testing ensures users can effectively search for trains by providing details such as destination, travel dates, and booking preferences.
+- **To-From Destination:** Validates the accuracy of train search results for specified origin and destination points.
+- **Booking Process:** Manually verifies the booking process, confirming that users can proceed through the booking flow without encountering errors.
+  
+## Testing Methodology
+- **Manual Testing:** Thoroughly testing each step of the train booking process to ensure a smooth user experience.
+- **Excel Template:** Utilizing an Excel template for input parameters, streamlining the testing process and enhancing test case documentation.
 
 ## 📬 Let's Connect
 
