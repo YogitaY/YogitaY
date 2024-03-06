@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate Quality Assurance (QA) automation
 
 ## 🌟 Projects
 
-### Project 1: Luma Cloth Shopping Automation Project 🌐🛍️ https://github.com/YogitaY/MyLumaProject
+### [Project 1: Luma Cloth Shopping Automation Project 🌐🛍️](https://github.com/YogitaY/MyLumaProject) 
 Automated end-to-end testing for the Luma Cloth shopping website using Java, Selenium, and TestNG. This project covers essential user flows:
 - **Account Creation:** Streamlined onboarding with automated account creation.
 - **Login:** Ensured secure access to user accounts with automated login functionality.
@@ -37,7 +37,7 @@ Automated end-to-end testing for the Luma Cloth shopping website using Java, Sel
 - **Selenium:** Framework for browser automation.
 - **TestNG:** Testing framework for efficient test execution and reporting.
 
-### Project 2: Cleartrip Train Booking Manual Project 🚂🗓️ https://github.com/Yyogita007/Clear-Trip-Module-Train-ManualTesting
+### [Project 2: Cleartrip Train Booking Manual Project🚂🗓️](https://github.com/Yyogita007/Clear-Trip-Module-Train-ManualTesting)   
 Manual testing project for Cleartrip's Train module, designed to facilitate seamless train bookings. Using an Excel template, users can easily input search criteria:
 - **Search Train:** Manual testing ensures users can effectively search for trains by providing details such as destination, travel dates, and booking preferences.
 - **To-From Destination:** Validates the accuracy of train search results for specified origin and destination points.
@@ -49,8 +49,7 @@ Manual testing project for Cleartrip's Train module, designed to facilitate seam
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](Your LinkedIn Profile Link)
-- 🐦 [Twitter](Your Twitter Profile Link)
+- 💼 [LinkedIn](www.linkedin.com/in/yogita-hindalekar-233306205)
 
 Feel free to explore my repositories, provide feedback, or collaborate on exciting projects. Let's learn and grow together! 🚀
 
