@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Quality Assurance (QA) automation
 
 - 🔍 Exploring automation frameworks for efficient testing.
 - 🌐 Developing scripts to streamline testing processes.
-- 📚 Learning about API testing, Performance testing, continuous integration, and more.
+- 📚 Learning about Performance testing, continuous integration, and more.
 
 ## 🛠️ Skills
 
