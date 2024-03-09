@@ -21,6 +21,8 @@ Welcome to my GitHub profile! I'm a passionate Quality Assurance (QA) automation
 - ⚙️ Programming : Java Core, Python, HTML, CSS, JavaScript, SQL
 - 🧪 Testing: Manual testing, test case design,API testing, Postman.
 - 📈 Version Control: Git and GitHub.
+- ⚙️ CI/CD Tool: Jenkins
+- 📈 Defect Tracking: Jira
 
 ## 🌟 Projects
 
