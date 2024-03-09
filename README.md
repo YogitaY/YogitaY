@@ -32,7 +32,7 @@ Automated end-to-end testing for the Luma Cloth shopping website using Java, Sel
 - **Add to Cart:** Automated the process of adding products to the shopping cart with proper validation.
 - **Buy Product:** Simulated successful transactions through automated checkout and purchase processes.
   
-## Technologies Used
+### Technologies Used
 - **Java:** Core programming language for automation scripts.
 - **Selenium:** Framework for browser automation.
 - **TestNG:** Testing framework for efficient test execution and reporting.
@@ -44,7 +44,7 @@ Automated testing project for Cleartrip's Offer Domestic Flight module, designed
 - **Flight Selection:** Automated the process of selecting flights within the context of the applied offer.
 - **Booking Confirmation:** Validated the booking flow, ensuring the successful application of the offer reflects in the final booking confirmation.
 
-## Technologies Used:
+### Technologies Used:
 - **Python:** Primary programming language for automation scripts.
 - **Selenium:** Powerful web testing framework for browser automation.
 - **pytest:** Testing framework for efficient test execution and reporting.
@@ -55,9 +55,25 @@ Manual testing project for Cleartrip's Train module, designed to facilitate seam
 - **To-From Destination:** Validates the accuracy of train search results for specified origin and destination points.
 - **Booking Process:** Manually verifies the booking process, confirming that users can proceed through the booking flow without encountering errors.
   
-## Testing Methodology
+### Testing Methodology
 - **Manual Testing:** Thoroughly testing each step of the train booking process to ensure a smooth user experience.
 - **Excel Template:** Utilizing an Excel template for input parameters, streamlining the testing process and enhancing test case documentation.
+
+### [Swag Labs Shopping Automation Project 🛒☁️]()
+
+Automated testing project for Swag Labs, an e-commerce website, using Java, Cucumber, JUnit, and Maven. This project streamlines the end-to-end shopping experience by automating the login, product selection, cart addition, and purchase processes.This project covers essential user flows:
+
+- **Automated Login:** Implemented scenarios to ensure users can log in securely to their accounts.
+- **Product Selection:** Automated the process of browsing and selecting products from the Swag Labs catalog.
+- **Adding to Cart:** Verified the correct addition of selected items to the shopping cart.
+- **Purchase Flow:** Simulated the purchase process to confirm successful transactions.
+
+### Technologies Used:
+
+- **Java:** Core programming language for automation scripts.
+- **Cucumber:** BDD framework for writing human-readable scenarios.
+- **JUnit:** Testing framework for efficient test execution and reporting.
+- **Maven:** Build automation tool for managing project dependencies.
   
 ## 📬 Let's Connect
 
