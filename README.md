@@ -59,7 +59,7 @@ Manual testing project for Cleartrip's Train module, designed to facilitate seam
 - **Manual Testing:** Thoroughly testing each step of the train booking process to ensure a smooth user experience.
 - **Excel Template:** Utilizing an Excel template for input parameters, streamlining the testing process and enhancing test case documentation.
 
-### [Swag Labs Shopping Automation Project 🛒☁️]()
+### [Swag Labs Shopping Automation Project 🛒☁️](https://github.com/YogitaY/SwagLabs)
 
 Automated testing project for Swag Labs, an e-commerce website, using Java, Cucumber, JUnit, and Maven. This project streamlines the end-to-end shopping experience by automating the login, product selection, cart addition, and purchase processes.This project covers essential user flows:
 
