@@ -1,4 +1,4 @@
-# 👩‍💻 Yogita Hindalekar – Data Analyst Portfolio  
+# 👩‍💻 Yogita Hindalekar – Turning Data into Decisions  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YogitaY&color=blueviolet)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/YogitaY)
