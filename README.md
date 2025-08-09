@@ -39,15 +39,9 @@ I am an **aspiring Data Analyst** passionate about **transforming raw data into 
 
 ---
 
-## 📄 Resume  
-📥 [Download My Resume](attachment:343f169f-a239-4ef0-bc08-3e91b360d189:Yogita_Hindalekar_Resume.pdf)  
-
----
-
 ## 📬 Contact Me  
 
-📧 **Email:** [yogitahindalekar2599@gmail.com](mailto:yogitahindalekar2599@gmail.com)  
-📱 **Phone:** +91-7820869976  
+📧 **Email:** [yogitahindalekar2599@gmail.com](mailto:yogitahindalekar2599@gmail.com)   
 
 ---
 
