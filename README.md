@@ -3,6 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YogitaY&color=blueviolet)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/YogitaY)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogita-hindalekar-233306205)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Yogita-s-Data-Analyst-Portfolio-2489b3f9c91f80b28764d55eb2ce67c8)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yogitahindalekar2599@gmail.com)
 
 ---
