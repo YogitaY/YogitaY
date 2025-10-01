@@ -27,15 +27,16 @@ I am an **aspiring Data Analyst** passionate about **transforming raw data into 
 
 ## 📊 Featured Project  
 
+### 🟣 Retail Sales Performance Dashboard  
+**Goal:** Improve visibility into sales trends, profitability, and customer behavior.  
+**Tech Stack:** Power BI, Excel  
+🔗 [View Project Repository](https://github.com/YogitaY/Retail_Sales_Dashboardv)  
+
 ### 🟣 InsightCart – Superstore Sales Data Analysis  
 **Goal:** Uncover sales patterns, customer trends, and profit insights for decision-making.  
 **Tech Stack:** Power BI, Python, SQL, Excel  
 🔗 [View Project Repository](https://github.com/YogitaY/E-Commerce-Sales-Insights)  
 
-### 🟣 •	Retail Sales Performance Dashboard  
-**Goal:** Improve visibility into sales trends, profitability, and customer behavior.  
-**Tech Stack:** Power BI, Excel  
-🔗 [View Project Repository](https://github.com/YogitaY/E-Commerce-Sales-Insights)  
 
 **Key Highlights:**  
 - Built **interactive Power BI dashboards** for management reporting.  
