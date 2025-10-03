@@ -26,6 +26,11 @@ I am an **aspiring Data Analyst** passionate about **transforming raw data into 
 ---
 
 ## 📊 Featured Project  
+### 🟣 E-commerce Customer Behavior Analysis 
+**Goal:** Uncover customer purchasing patterns, product performance, and revenue drivers to improve retention and marketing strategy.  
+**Tech Stack:** SQL, Power BI, Excel
+**Key Insights:** epeat Purchase Rate 3.08%, Beauty & Health/Watches/Electronics as top categories, RFM segmentation identified high-value customers.
+🔗 [View Project Repository]()  
 
 ### 🟣 Retail Sales Performance Dashboard  
 **Goal:** Improve visibility into sales trends, profitability, and customer behavior.  
