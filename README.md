@@ -27,7 +27,7 @@ I am an **aspiring Data Analyst** passionate about **transforming raw data into 
 
 ## 📊 Featured Project  
 ### 🟣 HR Analytics – Employee Attrition 
-**Goal:** Identify key factors driving employee attrition and predict at-risk employees to support HR retention strategies and future planning.
+**Goal:** Identify key factors driving employee attrition and predict at-risk employees to support HR retention strategies and for future planning.
 **Tech Stack:** Python (Pandas, Matplotlib, Scikit-learn), Excel, Statistical Analysis, Data Visualization.
 **Key Insights:** Sales & HR departments show highest attrition (20%+), employees aged 18–25 most likely to leave (39%), low income and overtime strongly linked to attrition.
 🔗 [View Project Repository](https://github.com/YogitaY/HR-Analytics-Employee-Attrition)  
