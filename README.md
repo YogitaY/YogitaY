@@ -26,11 +26,11 @@ I am an **aspiring Data Analyst** passionate about **transforming raw data into 
 ---
 
 ## 📊 Featured Project  
-### 🟣HR Analytics – Employee Attrition
+### 🟣 HR Analytics – Employee Attrition 
 **Goal:** Identify key factors driving employee attrition and predict at-risk employees to support HR retention strategies.
-**Tech Stack:** Python (Pandas, Matplotlib, Scikit-learn), Excel, Statistical Analysis, Data Visualization
+**Tech Stack:** Python (Pandas, Matplotlib, Scikit-learn), Excel, Statistical Analysis, Data Visualization.
 **Key Insights:** Sales & HR departments show highest attrition (20%+), employees aged 18–25 most likely to leave (39%), low income and overtime strongly linked to attrition.
-🔗 [View Project Repository]() 
+🔗 [View Project Repository](https://github.com/YogitaY/HR-Analytics-Employee-Attrition)  
 
 ### 🟣 E-commerce Customer Behavior Analysis 
 **Goal:** Uncover customer purchasing patterns, product performance, and revenue drivers to improve retention and marketing strategy.  
