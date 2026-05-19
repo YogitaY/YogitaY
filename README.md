@@ -41,7 +41,7 @@ Tech Stack: MS Excel, Manual Testing, Functional Testing, UI Testing
 * Performed validation testing on booking workflows
 * Identified real-time defects related to filters, validations & UI usability
 
-🔗 View Project Repository
+🔗 [https://github.com/YogitaY/cleartrip-bus-module-manual-testing]View Project Repository
 
 ---
 
