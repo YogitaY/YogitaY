@@ -57,7 +57,6 @@ Tech Stack: MS Excel, Manual Testing, Functional Testing, Integration Testing
 * Performed Functional, UI & Integration Testing
 * Prepared RTM and Defect Reports for workflow validation
 
-🔗 View Project Repository
 
 ---
 
